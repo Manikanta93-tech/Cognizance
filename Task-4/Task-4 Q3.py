@@ -1,4 +1,4 @@
-#creating table
+#creating given table
 n=int(input('Enter the number of students : '))
 a=[['Roll No','Name','Marks']]
 for i in range(n):
